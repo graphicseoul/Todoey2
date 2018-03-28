@@ -36,7 +36,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="dqw-A8-rfe">
                             <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                             <connections>
-                                <action selector="addButtonItem:" destination="hMQ-X9-Fdv" id="8vr-98-126"/>
+                                <action selector="addButtonPressed:" destination="hMQ-X9-Fdv" id="CQN-tM-3Dx"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
